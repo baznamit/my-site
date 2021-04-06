@@ -1,0 +1,113 @@
+ body {
+  padding-top: 100px;
+  background-color: #ccf2f4;
+  margin: 0;
+  font-family: verdana, sans-serif;
+  padding-bottom: 0;
+}
+
+p {
+  font-family: 'Ruda', sans-serif;
+}
+
+.A {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  margin-top: 0;
+  margin: 0 auto 0 auto;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 70px;
+}
+
+.h {
+  position: relative;
+  top: 100px;
+  color: #66BFBF;
+
+}
+
+.tcloud {
+  position: relative;
+  right: 400px;
+}
+
+.bcloud {
+  position: relative;
+  bottom: 500px;
+  left: 400px;
+}
+
+.m {
+  position: relative;
+  width: 1000px;
+  height: 600px;
+  bottom: 20px;
+}
+
+.P {
+  position: relative;
+  text-align: center;
+}
+
+.DP {
+  position: relative;
+
+  width: 200px;
+  height: 200px;
+  left: 45%;
+}
+
+.middle-container {
+  margin: 25px 0 0 0;
+}
+
+.skills {
+  text-align: center;
+  margin: 0;
+}
+
+
+.bottom-container {
+  background-color: #719fb0;
+  margin: 0;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.footer-link {
+  font-family: 'Nunito', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+  color: green;
+}
+
+.logo {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  top: 3px;
+}
+
+.head {
+  color: #11999E;
+  text-decoration: underline;
+}
+
+.fw {
+  font-weight: normal;
+}
+
+.head-1 {
+  color: #351f39;
+}
