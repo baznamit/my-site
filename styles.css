@@ -61,6 +61,8 @@ h1 {
   width: 200px;
   height: 200px;
   left: 45%;
+  border-radius: 50%;
+  outline-style: solid;
 }
 
 .middle-container {
